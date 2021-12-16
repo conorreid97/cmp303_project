@@ -1,0 +1,150 @@
+﻿  AITank.cpp
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.h(61,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.h(34,25): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(8,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(8,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(9,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(9,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(11,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(11,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(12,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(12,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(32,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(34,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(55,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(55,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(56,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.cpp(56,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  App1.cpp
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.h(61,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Bullet.cpp
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.h(61,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.h(34,25): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(8,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(8,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(9,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(9,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(11,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(11,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(12,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(12,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(32,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(34,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(55,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(55,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(56,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Bullet.cpp(56,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Collision.cpp
+  GameObject.cpp
+  Input.cpp
+  Main.cpp
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.h(61,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\AITank.h(34,25): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(150,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(150,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(150,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(150,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(252,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(252,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(257,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(257,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(264,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(264,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(271,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(271,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Main.cpp(85,23): warning C4101: 'mode': unreferenced local variable
+  NetworkSimulator.cpp
+  Player.cpp
+  Tank.cpp
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.h(61,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(22,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(22,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(25,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(25,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(36,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(36,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(88,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(89,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(231,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(232,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(247,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(248,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Conor\source\repos\cmp303_project\smfl_project_2.0\Tank.cpp(266,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  smfl_project_2.0.vcxproj -> C:\Users\Conor\source\repos\cmp303_project\x64\Debug\smfl_project_2.0.exe
